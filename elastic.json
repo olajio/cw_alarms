@@ -1,0 +1,7 @@
+{
+  'name': 'AWS/Elasticache',
+  'dimension': 'CacheClusterId',
+  'resource_type': 'elasticache:replicationgroup',
+  'tag_filters': [{'Key': 'hs:std:app-code'}],
+  'identifier_from_arn_parse_char': ':',
+}
