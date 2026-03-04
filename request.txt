@@ -1,0 +1,1 @@
+The dev team wants to create Elasticache cw alerts. They want to know if the config ir all they need to add
